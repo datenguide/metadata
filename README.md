@@ -15,7 +15,7 @@ German regions, NUTS level 1-3 (Bundesländer, Regierungsbezirke, Statistische R
         "level": 3, // NUTS level (1-3), LAU (4)
         "duration": { 
             "from": "2012-01-01", // ISO dates for earliest available statistical measure  
-            "to": "2019-12-31"  // ISO dates for latest available statistical measure  
+            "until": "2019-12-31"  // ISO dates for latest available statistical measure  
         }
     },
 }
