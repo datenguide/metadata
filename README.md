@@ -26,3 +26,7 @@ German regions, NUTS level 1-3 (Bundesländer, Regierungsbezirke, Statistische R
 Metadata about regions are managed in Markdown files using the following structure:
 
 [to be defined]
+
+## License
+
+The metadata in this repository was derived from data originally published by the German Federal Statistics Offices, [Statistische Ämter des Bundes und der Länder](https://www.statistikportal.de/de/statistische-aemter), under the [Data licence Germany – attribution – version 2.0](https://www.govdata.de/dl-de/by-2-0).
