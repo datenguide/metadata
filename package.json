@@ -1,0 +1,23 @@
+{
+  "name": "@datenguide/metadata",
+  "version": "0.0.1",
+  "description": "Curated metadata about German public statistics",
+  "main": "regions.json",
+  "scripts": {
+    "test": "prettier --check './**/*.{json,md}'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datenguide/metadata.git"
+  },
+  "author": "@datenguide, derived from data published by DESTATIS",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/datenguide/metadata/issues"
+  },
+  "homepage": "https://github.com/datenguide/metadata#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "1.19.1"
+  }
+}
